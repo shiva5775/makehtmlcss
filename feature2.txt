@@ -5,3 +5,4 @@ add new line in feature2 branch
 'this is display bar setting'
 
 this is three commit no 3
+this is four commit no 4
