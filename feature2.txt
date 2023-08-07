@@ -1,2 +1,5 @@
 this is feature2 branch 
 it is create text file
+
+add new line in feature2 branch
+'this is display bar setting'
